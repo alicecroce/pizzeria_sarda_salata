@@ -1,0 +1,29 @@
+a {
+    text-decoration: none;
+}
+
+.navbar-gourmet {
+    height: 40px;
+}
+
+.w-35 {
+    width: 35%;
+}
+
+.menu-list li, .menu-pizze li {
+    list-style-type: none;
+}
+
+.header-text {
+    background-color: #ffffff83;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+@media only screen and (min-width: 576px) {
+    .header-text {
+        font-size: 2rem!important;
+    }
+}
